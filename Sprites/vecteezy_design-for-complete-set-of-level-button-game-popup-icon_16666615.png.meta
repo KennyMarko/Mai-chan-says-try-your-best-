@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: a8841ea27809cd94ebbacfdd717f6f1c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1474
+        width: 278
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ffa5d6b4b09774bb990a8ad8b4c993
+      internalID: 329706825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_1
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1474
+        width: 280
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea0b16f18bb7fa4090af2fc73e9b5fb
+      internalID: -275589127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_2
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1474
+        width: 278
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eac0467d785f7846b8225e1380f0c61
+      internalID: 1229879694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_3
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1474
+        width: 278
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2b1814da810b84a997bb5f18e13803
+      internalID: 420886332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1047
+        width: 279
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f752dea3393bb294c9e53d58ec00033b
+      internalID: 982662274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1047
+        width: 280
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799e4001251cabb429c3a5823aca330a
+      internalID: -1877712152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_6
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1047
+        width: 278
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee67f48991fb6d4c984194da25d3e03
+      internalID: -60918792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_7
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1047
+        width: 278
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efaeebf4fa3cf040b4a8085d861a207
+      internalID: -78286752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_8
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 621
+        width: 280
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51793099669e2d419b035375cb741a9
+      internalID: 1599485459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_9
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 621
+        width: 279
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38f94de1cc9646428dc284aae9fd8b2
+      internalID: 402498114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_10
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 620
+        width: 279
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b539e713e5507264ca632e6a9acbd253
+      internalID: -1129837116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_11
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 620
+        width: 278
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65201116cc6a34f43b52a6085c18ef69
+      internalID: -383399104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 195
+        width: 280
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8c8c33c5c91c548b118cda01d782e3
+      internalID: -1445144846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_13
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 195
+        width: 280
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e250825f4fb7dc447a8e2ff0ac92d929
+      internalID: -1178973005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_14
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 193
+        width: 279
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6613c65276331a74da3c119461e2f269
+      internalID: -810683474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_15
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 193
+        width: 278
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daebc269ed5a9bd4c9b2d8fafb86c637
+      internalID: 222996852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_0: 329706825
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_1: -275589127
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_10: -1129837116
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_11: -383399104
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_12: -1445144846
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_13: -1178973005
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_14: -810683474
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_15: 222996852
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_2: 1229879694
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_3: 420886332
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_4: 982662274
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_5: -1877712152
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_6: -60918792
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_7: -78286752
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_8: 1599485459
+      vecteezy_design-for-complete-set-of-level-button-game-popup-icon_16666615_9: 402498114
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
