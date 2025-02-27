@@ -1,4 +1,4 @@
-# MyProject - Educational Game
+
 
 This game was created for educational purposes only.  
 
