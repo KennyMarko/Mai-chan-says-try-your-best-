@@ -1,6 +1,5 @@
 
 
-This game was created for educational purposes only.  
 
 ## How to Play  
 You can instantly run the game by downloading the zip file.  
